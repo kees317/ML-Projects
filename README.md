@@ -1,2 +1,2 @@
-# ML-Projects
-Cephalometric Landmark Analysis using GNN
+# Cephalometric Landmark Analysis using GNN
+
